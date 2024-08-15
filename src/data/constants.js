@@ -8,7 +8,7 @@ export const Bio = {
   ],
   description:
     "I am a versatile professional with expertise across multiple domains, including Data Science, Machine Learning Engineering, Generative AI, and AI Engineering. I specialize in building data-driven solutions using advanced machine learning techniques, generative models, and AI technologies to solve complex business problems. With a strong background in Python, cloud computing, and predictive modeling, I am passionate about leveraging AI to drive innovation and optimize processes.",
-  github: "https://github.com/Dinesh21-choudhary",
+  github: "https://github.com/dinesh-cchow",
   resume:
     "https://drive.google.com/file/d/1D_6qNeER_R1xPuPZnK0wPzwIXalCYRAD/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/dinesh-chenaramchowdary/",
